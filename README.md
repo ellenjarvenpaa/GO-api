@@ -1,21 +1,21 @@
-## Go Assignment
+# Go Assignment
 
 Animal API made with Go with data stored in MongoDB. Basic CRUD operations implemented.
 
-# Examples of operations:
+## Examples of operations:
 
-# GET
+## GET
 
 ![GET](./ss/get.png)
 
-# POST
+## POST
 
 ![POST](./ss/post.png)
 
-# PUT
+## PUT
 
 ![PUT](./ss/put.png)
 
-# DELETE
+## DELETE
 
 ![DELETE](./ss/delete.png)
